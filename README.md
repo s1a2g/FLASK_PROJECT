@@ -4,11 +4,12 @@
   A Python script will read a CSV file containing student records and perform the following functions:
   Calculate Average Grade: A function that calculates the average grade of all students.
   Identify Highest Grade: A function that prints the student with the highest grade.
+
 #Part 2: Web Development Using Flask or Django
    
   app.py
 
-      Purpose: The main application file that initializes the Flask app and handles routing.
+      Purpose:The main application file that initializes the Flask app and handles routing.
       
       Features:
           Defines routes for the home page, registration, login, and display of student records.
@@ -45,6 +46,7 @@
          A simple API endpoint (/api/users) that returns a JSON response with a list of all submitted user data.
   Error Handling:
           Implement basic error handling for form inputs to manage invalid data submissions.
+
 #Part 3: Database Integration
     
     Description:
@@ -72,18 +74,23 @@ Python
   Download: Python Official Website
 
 Flask
+  
   Framework for building the web application.
 
 Install using pip:
+  
   pip install Flask
 
 Flask-SQLAlchemy
+   
    Extension for integrating SQLAlchemy with Flask for database management.
 
 Install using pip:
+    
     pip install Flask-SQLAlchemy
 
 Installation Steps
+    
     Install Python: Ensure Python is installed and available in your system's PATH.
 
 
