@@ -1,4 +1,18 @@
 # FLASK_PROJECT
+
+PROGRAM STRUCTURE
+   
+   /flask_app
+      app.py
+      models.py
+      forms.py
+     /templates
+        home.html
+        login.html
+        display.html
+        register.html
+     /static
+
 #Part 1: CSV Processing Script
   
   A Python script will read a CSV file containing student records and perform the following functions:
