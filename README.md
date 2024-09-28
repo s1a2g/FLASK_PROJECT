@@ -69,6 +69,7 @@
 #This Flask application allows users to register, log in, and manage student records using a web interface. It includes user authentication, database integration for storing user and student data, and structured HTML templates for a user-friendly experience.
 
 Software Requirements
+
 Python
   Version: 3.6 or higher
   Download: Python Official Website
