@@ -45,6 +45,30 @@
            Login page to authenticate users.
            Middleware to restrict access to authenticated users.
 #This Flask application allows users to register, log in, and manage student records using a web interface. It includes user authentication, database integration for storing user and student data, and structured HTML templates for a user-friendly experience.
+Software Requirements
+Python
+  Version: 3.6 or higher
+  Download: Python Official Website
+Flask
+  Framework for building the web application.
+Install using pip:
+  pip install Flask
+Flask-SQLAlchemy
+   Extension for integrating SQLAlchemy with Flask for database management.
+Install using pip:
+    pip install Flask-SQLAlchemy
+Installation Steps
+    Install Python: Ensure Python is installed and available in your system's PATH.
+      Set up a virtual environment:
+           python -m venv venv
+          pip install Flask Flask-SQLAlchemy
+Run the application:
+    python app.py
+
+
+     
+
+    
 
 
 
