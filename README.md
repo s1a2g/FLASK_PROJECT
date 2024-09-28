@@ -62,6 +62,7 @@ Installation Steps
       Set up a virtual environment:
            python -m venv venv
           pip install Flask Flask-SQLAlchemy
+
 Run the application:
     python app.py
 
